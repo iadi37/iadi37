@@ -1,9 +1,11 @@
 <div>
- <img align ="center" alt="developer" width ="700" src="https://www.arenaslg.com/wp-content/uploads/2020/05/programmer-desk_1302-14802.jpg" style="center-align:middle;margin:10px 100px;padding:40px 400px" height"=40">
+ <img align ="center" alt="developer" width ="900" src="https://www.arenaslg.com/wp-content/uploads/2020/05/programmer-desk_1302-14802.jpg" style="center-align:middle;margin:10px 100px;padding:40px 400px" height"=40">
  </div>
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <hr>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="coding image" width="500"/>
+</p>
 
 
 
