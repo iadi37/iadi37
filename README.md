@@ -1,7 +1,8 @@
 <div>
  <img align ="center" alt="developer" width ="900" src="https://www.arenaslg.com/wp-content/uploads/2020/05/programmer-desk_1302-14802.jpg" style="center-align:middle;margin:10px 100px;padding:40px 400px" height"=40">
  </div>
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="gif"
+          width="40"/> , I'm Aditya</h1>              
 <hr>
 <p align="center">
   <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="coding image" width="500"/>
@@ -22,12 +23,16 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **aditya10837@gmail.com**<hr>
+- 📫 How to reach me **aditya10837@gmail.com**
+
+- ⚡ Fun fact **I love to play 🏸 and 🏏**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iadi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iadi37" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iadi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iadi37" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Aditya Gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iadi37" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/aditya gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aditya gupta" height="30" width="40" /></a>
 <a href="https://kaggle.com/iadi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iadi37" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iadi37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iadi37" height="30" width="40" /></a>
 </p>
