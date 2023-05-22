@@ -10,8 +10,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iadi37&label=Profile%20views&color=0e75b6&style=flat" alt="iadi37" /> </p>
-
+ ![](https://komarev.com/ghpvc/?username=your-github-iadi37&color=blue)
 
 
 
