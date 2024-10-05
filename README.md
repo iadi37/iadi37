@@ -18,7 +18,6 @@
 
 <hr>
 
-<p align="left"> <a href="https://twitter.com/iadi37" target="blank"><img src="https://img.shields.io/twitter/follow/iadi37?logo=twitter&style=for-the-badge" alt="iadi37" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
